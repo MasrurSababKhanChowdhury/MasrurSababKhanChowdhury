@@ -23,6 +23,7 @@
 <a href="https://linkedin.com/in/masrursababkhanchowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masrursababkhanchowdhury" height="30" width="40" /></a>
 <a href="https://kaggle.com/masrursabab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="masrursabab" height="30" width="40" /></a>
 <a href="https://fb.com/masrursababkhanchowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="masrursababkhanchowdhury" height="30" width="40" /></a>
+<a href="https://instagram.com/masrursabab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sabab" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

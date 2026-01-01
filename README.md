@@ -44,9 +44,4 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<!-- Dark theme GitHub stats -->
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masrursababkhanchowdhury&show_icons=true&locale=en&theme=dark" alt="masrursababkhanchowdhury" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masrursababkhanchowdhury&theme=dark" alt="masrursababkhanchowdhury" /></p>

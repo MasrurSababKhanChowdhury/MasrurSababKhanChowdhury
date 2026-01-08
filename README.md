@@ -2,7 +2,7 @@
 <!-- Animated Header with Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=3000&pause=500&multiline=true&width=600&height=100&lines=Masrur+Sabab;Network+Viz+%7C+AI+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=3000&pause=500&multiline=true&width=600&height=100&lines=Masrur+Sabab+Khan+Chowdhury;Aspiring+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
   <p>
     <img src="https://img.shields.io/badge/Intern-Summit%20Comm-black?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Internship" />
     <img src="https://img.shields.io/badge/Focus-Network%20Visualization-black?style=for-the-badge&logo=cisco&logoColor=00f3ff&labelColor=000000" alt="Focus" />
-    <img src="https://img.shields.io/badge/AI-Deep%20Learning-black?style=for-the-badge&logo=tensorflow&logoColor=ff0055&labelColor=000000" alt="Focus" />
+    <img src="https://img.shields.io/badge/Focus-%AI-Deep%20Learning-black?style=for-the-badge&logo=tensorflow&logoColor=ff0055&labelColor=000000" alt="Focus" />
   </p>
   
   <img src="https://komarev.com/ghpvc/?username=masrursababkhanchowdhury&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="masrursababkhanchowdhury" />
@@ -29,9 +29,9 @@
 
 ```javascript
 const masrur = {
-    role: "Intern at Summit Comm",
-    focus: "Network Visualization",
-    tech: ["LLM", "Transformers", "Full Stack"],
+    role: "Intern at Summit Communication",
+    focus: "Network Visualization & Software Development",
+    tech: ["AI", "Machine Leaarning","Deeplearning", "Full Stack Developmnet"],
     passion: "Turning data into insights"
 };
 ```
@@ -64,23 +64,6 @@ I am a technology enthusiast driven by the logic of networks and the creativity 
 
 ---
 
-### 📊 GitHub Analytics (3D Style)
-
-<!-- This looks like a 3D Isometric Map -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=masrursababkhanchowdhury&theme=react-dark&hide_border=true&area=true&bg_color=000000" alt="3D Contribution Graph" />
-</p>
-
-<!-- Standard Stats with Custom Colors -->
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=masrursababkhanchowdhury&show_icons=true&locale=en&hide_border=true&bg_color=000000&title_color=00f3ff&text_color=ffffff&icon_color=bc13fe" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=masrursababkhanchowdhury&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=000000&title_color=00f3ff&text_color=ffffff" alt="Top Languages" />
-</div>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=masrursababkhanchowdhury&theme=dark&hide_border=true&background=000000&stroke=000000&ring=00f3ff&fire=bc13fe&currStreakLabel=ffffff" alt="GitHub Streak" />
-</p>
 
 ---
 

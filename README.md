@@ -62,5 +62,5 @@ Transmission lines are open. Send a signal for collaboration or inquiries.
 
 ---
 <div align="center">
-  <small>© 2026 Masrur Sabab Khan Chowdhury</small>
+  <!-- <small>© 2026 Masrur Sabab Khan Chowdhury</small> -->
 </div>

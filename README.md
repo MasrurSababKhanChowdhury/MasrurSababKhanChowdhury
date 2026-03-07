@@ -24,7 +24,7 @@ My journey is fueled by a passion for solving real-world challenges through prog
 ### Intern at **Summit Communications Limited**
 *Network Planning and Design Department*
 
-*November 2025 - Present* 
+*November 2025 - January 2026* 
 
 
 **Project:** Design and Development of a Web Application for Datacom Network Visualization and Modeling.

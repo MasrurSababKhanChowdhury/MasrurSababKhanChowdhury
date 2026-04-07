@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Masrur Sabab Khan Chowdhury</h1>
-  <p><em>Engineer | Deep Learning & AI Enthusiast</em></p>
+  <p><em>Deep Learning & AI Enthusiast</em></p>
   <p>Dhaka, Bangladesh</p>
   <a href="https://masrursababkhanchowdhury.github.io/">🌐 Portfolio</a> &nbsp;•&nbsp; 
   <a href="mailto:masrursababkhanchowdhury@gmail.com">📧 Email</a>
